@@ -1,4 +1,4 @@
-###React Formbuilder
+React Formbuilder
 
 
 # Installation
