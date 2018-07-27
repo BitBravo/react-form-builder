@@ -76,14 +76,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kinto/formbuilder.git"
+    "url": "git+https://github.com/javascript603/react-FormBuilder.git"
   },
-  "author": "Kinto team <kinto@mozilla.org>",
+  "author": "javascript603",
   "keywords": [
     "react",
     "form",
     "json-schema"
   ],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/Kinto/formbuilder#readme"
+  "homepage": "javascript603"
 }
