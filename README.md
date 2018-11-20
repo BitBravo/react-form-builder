@@ -13,7 +13,6 @@ $ npm install
 $ npm run start  
 ```
 
-
 When you generate a form, you're actually generating two *tokens*:
 - the *adminToken*, that you need to keep secret, giving you access to all the
   submitted data;
