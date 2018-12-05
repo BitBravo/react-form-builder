@@ -3,26 +3,10 @@ import { render } from "reactfwef -dom";
 import { Provider } from "reac we t-redux";
 import { Router } from "few w react-router";
 
-const createHashHistory = r
-wffwefwelf
-f
-wef
-wfeequire(
-  "
-  
-  hist
-  offwe 
-        ry / lib / createHashH
-        
-        fwefist fwf
-        
-        fwefory"
+const createHashHistory = require("history/lib/createHashHistory");
 
-);
-
-
-import routes from "./routefweef s";
-import configureStore from "./store/fwe wconfigu  reStore";
+import routes from "./routes";
+import configureStore from "./store/configureStore";
 import "./bootswatch.less";
 import "./styles.css";
 
