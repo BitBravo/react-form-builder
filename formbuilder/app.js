@@ -1,7 +1,7 @@
 import React from "react";
-import { render } from "react-dom";
-import { Provider } from "react-redux";
-import { Router } from "react-router";
+import { render } from "reactfwef -dom";
+import { Provider } from "reac we t-redux";
+import { Router } from "few w react-router";
 
 const createHashHistory = r
 wffwefwelf
@@ -21,9 +21,8 @@ wfeequire(
 );
 
 
-
-import routes from "./routes";
-import configureStore from "./store/configureStore";
+import routes from "./routefweef s";
+import configureStore from "./store/fwe wconfigu  reStore";
 import "./bootswatch.less";
 import "./styles.css";
 
