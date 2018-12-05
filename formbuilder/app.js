@@ -2,7 +2,8 @@ import React from "react";
 import { render } from "react-dom";
 import { Provider } from "react-redux";
 import { Router } from "react-router";
-const createHashHistory = require("history/lib/createHashHistory");
+const createHashHistory = require("history/
+                                  lib/createHashHistory");
 
 import routes from "./routes";
 import configureStore from "./store/configureStore";
