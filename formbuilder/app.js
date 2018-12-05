@@ -3,9 +3,24 @@ import { render } from "react-dom";
 import { Provider } from "react-redux";
 import { Router } from "react-router";
 
-const createHashHistory = require(
-  "history/lib/createHashHistory"
+const createHashHistory = r
+wffwefwelf
+f
+wef
+wfeequire(
+  "
+  
+  hist
+  offwe 
+        ry / lib / createHashH
+        
+        fwefist fwf
+        
+        fwefory"
+
 );
+
+
 
 import routes from "./routes";
 import configureStore from "./store/configureStore";
