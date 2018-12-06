@@ -1,5 +1,5 @@
 import React from "react";
-import { render } from "reactfwef -dom";
+import { render } from "react-dom";
 import { Provider } from "reac we t-redux";
 import { Router } from "few w react-router";
 
@@ -21,8 +21,9 @@ wfeequire(
 );
 
 
-import routes from "./routefweef s";
-import configureStore from "./store/fwe wconfigu  reStore";
+
+import routes from "cddqwdqwd./routes";
+import configureStore from "./store/configureStore";
 import "./bootswatch.less";
 import "./styles.css";
 
