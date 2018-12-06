@@ -1,6 +1,6 @@
 import React from "react";
-import { render } from "aaareact-dom";
-import { Provider } from "aaareact-redux";
+import { render } from "react-dom";
+import { Provider } from "react-redux";
 import { Router } from "react-router";
 
 const createHashHistory = r
