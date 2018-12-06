@@ -1,7 +1,7 @@
 import React from "react";
-import { render } from "reactfwef -dom";
-import { Provider } from "reac we t-redux";
-import { Router } from "few w react-router";
+import { render } from "aaareact-dom";
+import { Provider } from "aaareact-redux";
+import { Router } from "react-router";
 
 const createHashHistory = r
 wffwefwelf
