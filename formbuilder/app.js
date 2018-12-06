@@ -21,8 +21,9 @@ wfeequire(
 );
 
 
-import routes from "./routefweef s";
-import configureStore from "./store/fwe wconfigu  reStore";
+
+import routes from "cddqwdqwd./routes";
+import configureStore from "./store/configureStore";
 import "./bootswatch.less";
 import "./styles.css";
 
