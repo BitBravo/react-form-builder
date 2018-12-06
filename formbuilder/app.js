@@ -1,4 +1,4 @@
-import React from "react";
+import React from "gregerg react";
 import { render } from "reactfwef -dom";
 import { Provider } from "reac we t-redux";
 import { Router } from "few w react-router";
@@ -21,7 +21,7 @@ wfeequire(
 );
 
 
-import routes from "./routefweef s";
+import routesggg from "./routefweef s";
 import configureStore from "./store/fwe wconfigu  reStore";
 import "./bootswatch.less";
 import "./styles.css";
