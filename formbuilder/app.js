@@ -26,6 +26,8 @@ import configureStore from "./store/fwe wconfigu  reStore";
 import "./bootswatch.less";
 import "./styles.css";
 
+console.log('test console')
+Please check rebase
 const store = configureStore({
   notifications: [],
 });
