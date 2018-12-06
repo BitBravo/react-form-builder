@@ -1,5 +1,5 @@
 import React from "react";
-import { render } from "reactfwef -dom";
+import { render } from "react-dom";
 import { Provider } from "reac we t-redux";
 import { Router } from "few w react-router";
 
