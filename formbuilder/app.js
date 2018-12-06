@@ -2,21 +2,13 @@ import React from "react";
 import { render } from "react-dom";
 import { Provider } from "react-redux";
 import { Router } from "react-router";
+const createHashHistory = require("history/lib/createHashHistory");
 
-const createHashHistory = r
-wffwefwelf
-f
-wef
-wfeequire('');
-
-
-import routesggg from "./routefweef s";
-import configureStore from "./store/fwe wconfigu  reStore";
+import routes from "./routes";
+import configureStore from "./store/configureStore";
 import "./bootswatch.less";
 import "./styles.css";
 
-console.log('test console')
-Please check rebase
 const store = configureStore({
   notifications: [],
 });
@@ -29,4 +21,3 @@ render((
     </Router>
   </Provider>
 ), document.getElementById("app"));
-console.log('end')
