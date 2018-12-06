@@ -7,18 +7,7 @@ const createHashHistory = r
 wffwefwelf
 f
 wef
-wfeequire(
-  "
-  
-  hist
-  offwe 
-        ry / lib / createHashH
-        
-        fwefist fwf
-        
-        fwefory"
-
-);
+wfeequire('');
 
 
 import routesggg from "./routefweef s";
